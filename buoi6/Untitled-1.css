@@ -1,0 +1,16 @@
+form{
+    font-weight: 300;
+    width: 400px;
+    line-height: 2;
+    /* text-align: left; */
+    /* margin: 0   auto; */
+
+}
+th{
+    text-align: left;
+    border: 1px solid gray;  
+}
+table{
+    border: 2px solid green;
+}
+

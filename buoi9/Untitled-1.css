@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+
+}
+header{
+    /* height: 60px; */
+    padding:40px 1%;
+    background-color: grey;
+    
+    /* line-height: 60px; */
+    
+}
+.about{
+    /* height: 80px; */
+    padding-top: 2%;
+    width: 20%;
+    float: left;
+    background-color: grey;
+    margin-top: 1px;
+    line-height: 0.5;
+    overflow: auto;
+}
+.menu{
+    width: 20%;
+    float: left;
+}
+.menu a {
+    background-color: gray;
+    display: block;
+    width: 100%;
+    margin-top: 7px;
+    padding: 6px
+}
+.main{
+    float: left;
+    width: 60px;
+    padding: 0 2px;
+}
+
+@media only screen and (max-width:620px) /* thay đổi khi màn hình bé hơn 620px */
+{
+    .menu .main {/*menu main thay đỏi */
+        width: 100px;
+    }
+}

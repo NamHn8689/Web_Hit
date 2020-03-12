@@ -1,0 +1,31 @@
+.mot{
+    font-size: 20px;
+    color: white;
+}
+.hai{
+    border: 1.5px solid red;
+    padding-left: 30px;
+    padding-right: 30px
+}
+.NghiengArial{
+    font-family: Arial;
+    font-style: italic;
+}
+.den24{
+    color: black;
+    font-size: 24px;
+}
+img{
+    border-radius: 50%;
+}
+#chuanh{
+    font-family: Arial;
+    font-size: 50px;
+    color: red;
+    position: absolute;    
+    padding-top: 12px; 
+}
+.ba{
+    position: relative;
+    top: 40%;
+}

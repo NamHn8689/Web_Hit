@@ -1,0 +1,16 @@
+.content{
+    height: 30px;
+    width: 50px;
+    background: gray; 
+}
+.content:hover{
+    background:   red;    
+}
+.content:active{
+    background:   green;
+}
+.but{
+    background: gray;
+    border: 1px solid gray;
+    border-radius: 10%;
+}
